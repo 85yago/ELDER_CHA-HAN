@@ -1,5 +1,5 @@
 services:
-  discordpy-cog-test-dev:
+  discord-dicebot-dev:
     build:
       context: ./
       dockerfile: Dockerfile.dev
